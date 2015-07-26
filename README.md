@@ -3,6 +3,9 @@ GoInvaders
 
 Space Invaders in a GoLang Console Application
 
+![GoInvaders Image](goinvaders.png)
+
+
 ### Installation
 
 Clone project, change to directory
