@@ -13,7 +13,7 @@ const DIRECTION_LEFT = 1
 const DIRECTION_RIGHT = 2
 const ALIEN_SPEED = 150
 const ALIEN_PROJECTILE_SPEED = 100
-const ALIEN_STARTING_FIRE_CHANCE = 40
+const ALIEN_STARTING_FIRE_CHANCE = 30
 
 type AlienManager struct {
     emitter *emission.Emitter
