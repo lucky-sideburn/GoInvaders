@@ -3,7 +3,7 @@ package keyboard
 import (
     tm "github.com/nsf/termbox-go"
     "github.com/chuckpreslar/emission"
-    "event"
+    "github.com/scottdriscoll/GoInvaders/event"
 )
 
 type Keyboard struct {

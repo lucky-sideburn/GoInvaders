@@ -10,15 +10,9 @@ Space Invaders in a GoLang Console Application
 
 Clone project, change to directory
 
-Download dependencies:
-
-`go get -u github.com/chuckpreslar/emission`
-
-`go get -u github.com/nsf/termbox-go`
-
 Build app:
 
-`golang-go build`
+`go build`
 
 Run app:
 

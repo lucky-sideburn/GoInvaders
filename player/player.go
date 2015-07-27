@@ -3,9 +3,9 @@ package player
 import (
     tm "github.com/nsf/termbox-go"
     "github.com/chuckpreslar/emission"
-    "event"
+    "github.com/scottdriscoll/GoInvaders/event"
+    "github.com/scottdriscoll/GoInvaders/projectile"
     "container/list"
-    "projectile"
 )
 
 const PLAYER_PROJECTILE_SPEED = 30

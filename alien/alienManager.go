@@ -1,12 +1,12 @@
 package alien
 
 import (
-    "container/list"
     tm "github.com/nsf/termbox-go"
     "github.com/chuckpreslar/emission"
-    "event"
+    "github.com/scottdriscoll/GoInvaders/event"
+    "github.com/scottdriscoll/GoInvaders/projectile"
+    "container/list"
     "math/rand"
-    "projectile"
 )
 
 const DIRECTION_LEFT = 1

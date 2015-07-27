@@ -4,14 +4,14 @@ package main
 import (
     tm "github.com/nsf/termbox-go"
     "github.com/chuckpreslar/emission"
-    "event"
-    "time"
-    "keyboard"
-    "gameboard"
-    "player"
-    "syscall"
-    "alien"
+    "github.com/scottdriscoll/GoInvaders/event"
+    "github.com/scottdriscoll/GoInvaders/keyboard"
+    "github.com/scottdriscoll/GoInvaders/gameboard"
+    "github.com/scottdriscoll/GoInvaders/player"
+    "github.com/scottdriscoll/GoInvaders/alien"
     "fmt"
+    "time"
+    "syscall"
 )
 
 func main() {
