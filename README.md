@@ -12,9 +12,7 @@ Clone project, change to directory
 
 Download dependencies:
 
-`go get -u github.com/chuckpreslar/emission`
-
-`go get -u github.com/nsf/termbox-go`
+`go get`
 
 Build app:
 
