@@ -8,7 +8,6 @@ import (
 
 type Keyboard struct {
     emitter *emission.Emitter
-    eventQueue chan tm.Event
 }
 
 func (k *Keyboard) Init(emitter *emission.Emitter) {
